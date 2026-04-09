@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Membuat adonan tepung roti
 - Membuat desert
 - Membuat kue ulang tahun
+- Membuat kue lebaran
+- Membuat donat
