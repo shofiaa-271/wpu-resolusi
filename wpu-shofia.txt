@@ -3,7 +3,9 @@ RENCANA MEMBUAT K0NTEN BARU
 - Javascript
 * E56
 * Fromwork Javascript
-- Struktur Data Dasar
+  ^ Angular
+  ^ React
 - PHP Framworks
+  ^ Laravel
 - Interview
 - Vlongs
