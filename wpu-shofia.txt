@@ -3,7 +3,7 @@ RENCANA MEMBUAT K0NTEN BARU
 - Javascript
 * E56
 * Fromwork Javascript
-Struktur Data Dasar
+- Struktur Data Dasar
 - PHP Framworks
 - Interview
 - Vlongs
