@@ -3,8 +3,8 @@ RENCANA MEMBUAT K0NTEN BARU
 - Javascript
 * E56
 * Fromwork Javascript
-   ^ Vue
-   ^ React
+  ^ Vue
+  ^ React
 - Struktur Data Dasar
 - PHP Framworks
   ^ Laravel
